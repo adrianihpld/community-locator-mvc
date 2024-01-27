@@ -363,3 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 /Runners/Services/PhotoServices.cs
 /Runners/appsettings.json
+/Runners/Views/Shared/_Layout.cshtml
+/Runners/Controllers/HomeController.cs
